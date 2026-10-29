@@ -80,3 +80,14 @@ nav a {
 nav a:hover {
   transform : scale(1.2);
 }
+.container {
+  max-width : 800px;
+  margin : 0 auto;
+  padding : 0 20px;
+}
+header {
+  background-color : #1e3a5f;
+  color : white;
+  padding : 20px 0;
+  text-align : centre;
+}
